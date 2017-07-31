@@ -1,0 +1,8 @@
+PuzzleSlider.MainActivity, PuzzleSlider;md5824c8ec6ede49d1dde663eb4028c350b.MainActivity
+PuzzleSlider.MainActivity, PuzzleSlider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5824c8ec6ede49d1dde663eb4028c350b.MainActivity
+PuzzleSlider.MainActivity;md5824c8ec6ede49d1dde663eb4028c350b.MainActivity
+puzzleslider.MainActivity;md5824c8ec6ede49d1dde663eb4028c350b.MainActivity
+PuzzleSlider.GameActivity, PuzzleSlider;md5824c8ec6ede49d1dde663eb4028c350b.GameActivity
+PuzzleSlider.GameActivity, PuzzleSlider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5824c8ec6ede49d1dde663eb4028c350b.GameActivity
+PuzzleSlider.GameActivity;md5824c8ec6ede49d1dde663eb4028c350b.GameActivity
+puzzleslider.GameActivity;md5824c8ec6ede49d1dde663eb4028c350b.GameActivity

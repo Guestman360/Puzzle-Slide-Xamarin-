@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{12E50573-C6E9-42EE-BD84-CBFEBF66E920}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PuzzleSlider/MainActivity.cs">
+    <Files>
+      <File FileName="PuzzleSlider/MainActivity.cs" Line="7" Column="1" />
+      <File FileName="PuzzleSlider/GameActivity.cs" Line="18" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PuzzleSlider AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.Holo.NoActionBar" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
